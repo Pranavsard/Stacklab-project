@@ -6,12 +6,10 @@ Also known as expense manager and money manager, an expense tracker is a softwar
 
 [![3.0.5 Flutter](https://img.shields.io/badge/Flutter-3.0.5-blue)](https://flutter.io)
 
-[![3.0.5 Flutter](https://img.shields.io/badge/Flutter__expense__tracker-0.0.1-lightgrey)](https://github.com/AgweBryan/flutter_expense_tracker_app)
+[![3.0.5 Flutter](https://img.shields.io/badge/Flutter__expense__tracker-0.0.1-lightgrey)]
 
 
-## Authors
 
-- [@AgweBryan](https://www.github.com/AgweBryan)
 
 
 ## Screenshots
@@ -57,12 +55,8 @@ Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
-If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue](https://github.com/AgweBryan/flutter_expense_tracker_app/issues).
+If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue]
 
-If you fixed a bug or implemented a new feature, please send a [pull request](https://github.com/AgweBryan/flutter_expense_tracker_app/pulls).
+If you fixed a bug or implemented a new feature, please send a [pull request](
 
-
-## Feedback
-
-If you have any feedback, please reach out to me at agwebryanmunakwa@gmail.com
 
